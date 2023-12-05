@@ -1,5 +1,5 @@
 /* General form styling with a magical touch */
-form {
+.container {
   font-family: 'Comic Sans MS', cursive, sans-serif;
   max-width: 600px;
   margin: 20px auto;
